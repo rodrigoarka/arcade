@@ -218,7 +218,7 @@ strong {
 .fight-stick .trigger-button {
     width: 123px;
     height: 123px;
-    background: #333333;
+    background: #d61d1d;
     border-radius: 100%;
     opacity: 1;
     display: block;
@@ -310,7 +310,7 @@ strong {
 .fight-stick .back, .fight-stick .start {
     width: 70px;
     height: 70px;
-    background: #d3d3ff;
+    background: #d61d1d;
     display: block;
     border-radius: 100%;
 }
