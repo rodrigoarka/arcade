@@ -194,7 +194,7 @@ strong {
 
 /*BEGIN Xbox 360 Controller Styling*/
 .controller.xbox-old {
-    background: url(http://projetos.rodrigoarka.com-old/bg.png);
+    background: url(xbox-assets-old/bg.png);
     height: 544px;
     width: 668px;
     /*    margin-left: -332px;
@@ -202,7 +202,7 @@ strong {
 }
 
 .xbox-old.disconnected {
-    background: url(http://projetos.rodrigoarka.com-old/bg-disconnect.png);
+    background: url(xbox-assets-old/bg-disconnect.png);
 }
 
 .xbox-old.disconnected div {
@@ -219,7 +219,7 @@ strong {
 .xbox-old .trigger {
     width: 33px;
     height: 76px;
-    background: url(http://projetos.rodrigoarka.com-old/trigger.png);
+    background: url(xbox-assets-old/trigger.png);
     opacity: 0;
 }
 
@@ -236,7 +236,7 @@ strong {
 .xbox-old .bumper {
     width: 119px;
     height: 44px;
-    background: url(http://projetos.rodrigoarka.com-old/bumper.png);
+    background: url(xbox-assets-old/bumper.png);
     opacity: 0;
 }
 
@@ -264,7 +264,7 @@ strong {
 
 .xbox-old .quadrant {
     position: absolute;
-    background: url(http://projetos.rodrigoarka.com-old/quadrant.png);
+    background: url(xbox-assets-old/quadrant.png);
     height: 100px;
     width: 100px;
     top: 165px;
@@ -301,7 +301,7 @@ strong {
 }
 
 .xbox-old .back, .xbox-old .start {
-    background: url(http://projetos.rodrigoarka.com-old/arrow.png);
+    background: url(xbox-assets-old/arrow.png);
     width: 34px;
     height: 29px;
 }
@@ -359,24 +359,24 @@ strong {
 }
 
 .xbox-old .a {
-    background: url(http://projetos.rodrigoarka.com-old/a.png);
+    background: url(xbox-assets-old/a.png);
     top: 108px;
     left: 55px;
 }
 
 .xbox-old .b {
-    background: url(http://projetos.rodrigoarka.com-old/b.png);
+    background: url(xbox-assets-old/b.png);
     top: 54px;
     right: 0px;
 }
 
 .xbox-old .x {
-    background: url(http://projetos.rodrigoarka.com-old/x.png);
+    background: url(xbox-assets-old/x.png);
     top: 54px;
 }
 
 .xbox-old .y {
-    background: url(http://projetos.rodrigoarka.com-old/y.png);
+    background: url(xbox-assets-old/y.png);
     left: 54px;
 }
 
@@ -390,7 +390,7 @@ strong {
 
 .xbox-old .stick {
     position: absolute;
-    background: url(http://projetos.rodrigoarka.com-old/stick.png);
+    background: url(xbox-assets-old/stick.png);
     height: 86px;
     width: 86px;
 }
@@ -474,7 +474,7 @@ strong {
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(http://projetos.rodrigoarka.com/base.svgz);
+    background: url(xbox-assets/base.svgz);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -482,11 +482,11 @@ strong {
 }
 
 .xbox.white {
-    background: url(http://projetos.rodrigoarka.com/base-white.svgz);
+    background: url(xbox-assets/base-white.svgz);
 }
 
 .xbox.disconnected {
-    background: url(http://projetos.rodrigoarka.com/disconnected.svgz);
+    background: url(xbox-assets/disconnected.svgz);
 }
 
 .xbox.disconnected div {
@@ -503,7 +503,7 @@ strong {
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(http://projetos.rodrigoarka.com/trigger.svgz);
+    background: url(xbox-assets/trigger.svgz);
     opacity: 0;
 }
 
@@ -520,7 +520,7 @@ strong {
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(http://projetos.rodrigoarka.com/bumper.svgz);
+    background: url(xbox-assets/bumper.svgz);
     opacity: 0;
 }
 
@@ -548,7 +548,7 @@ strong {
 
 .xbox .quadrant {
     position: absolute;
-    background: url(http://projetos.rodrigoarka.com/quadrant.svgz);
+    background: url(xbox-assets/quadrant.svgz);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -585,7 +585,7 @@ strong {
 }
 
 .xbox .back, .xbox .start {
-    background: url(http://projetos.rodrigoarka.com/start-select.svgz);
+    background: url(xbox-assets/start-select.svgz);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -614,7 +614,7 @@ strong {
 
 .xbox .button {
     position: absolute;
-    background: url(http://projetos.rodrigoarka.com/abxy.svgz);
+    background: url(xbox-assets/abxy.svgz);
     width: 48px;
     height: 48px;
 }
@@ -659,7 +659,7 @@ strong {
 
 .xbox .stick {
     position: absolute;
-    background: url(http://projetos.rodrigoarka.com/stick.svgz);
+    background: url(xbox-assets/stick.svgz);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -688,7 +688,7 @@ strong {
 }
 
 .xbox .face {
-    background: url(http://projetos.rodrigoarka.com/dpad.svgz);
+    background: url(xbox-assets/dpad.svgz);
     position: absolute;
     opacity: 0;
 }
@@ -1792,7 +1792,7 @@ background-position: 0 -70px;
 /*END FightPad Pro Controller Styling*/
 /*BEGIN Fight Stick Controller Styling*/
 .controller.fight-stick {
-    background: url(stick-assets/base.svgz) center no-repeat;
+    background: url(http://projetos.rodrigoarka.com/base.png) center no-repeat;
     height: 534px;
     width: 1122px;
 }
@@ -1849,7 +1849,7 @@ background-position: 0 -70px;
 .fight-stick .bumper {
     width: 123px;
     height: 123px;
-    background: #333333;
+    background: #d61d1d;
     border-radius: 100%;
     opacity: 1;
     display: block;
@@ -1908,7 +1908,7 @@ background-position: 0 -70px;
 .fight-stick .back, .fight-stick .start {
     width: 70px;
     height: 70px;
-    background: #333333;
+    background: #d3d3ff;
     display: block;
     border-radius: 100%;
 }
@@ -1939,7 +1939,7 @@ background-position: 0 -70px;
 .fight-stick .button {
     width: 123px;
     height: 123px;
-    background: #333333;
+    background: #d61d1d;
     border-radius: 100%;
     opacity: 1;
     display: block;
